@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "255058206440",
+    "project_id": "yupchat-fe939",
+    "storage_bucket": "yupchat-fe939.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:255058206440:android:ac1150dcc0f9f91413b35d",
+        "android_client_info": {
+          "package_name": "com.example.yupchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "255058206440-7h2ndhfbkq66fk8m8klclklsc6nv4mdi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCp77gzCWKSimrYSKekEq5_bvkgj0MTE3k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "255058206440-7h2ndhfbkq66fk8m8klclklsc6nv4mdi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

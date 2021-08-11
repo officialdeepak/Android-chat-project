@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">YUPCHAT</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="facebook">Facebook</string>
+    <string name="logout">LOGOUT</string>
+    <string name="setting">SETTING</string>
+    <string name="username">username</string>
+    <string name="GROUPCHAT">GROUPCHAT</string>
+    <string name="lastmessage" />
+</resources>
